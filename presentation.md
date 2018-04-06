@@ -115,7 +115,7 @@
 
 # Role Models Are Important
 
-![](images/potential.png)
+![](images/mexicans.png)
 
 ---
 
