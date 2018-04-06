@@ -16,14 +16,15 @@
 # Morphology of the Folktale
 
 * Published 1928
-* Propp identified a sequence of narrative elements (or 'functions') that typically occurred within Russian fairytale.
 * Study of Russian Folktales and their structure.
+* Identified a sequence of narrative elements that typically occurred within Russian fairytale.
+
 * 31 Functions: stages in the folktale
 * 7 Characters
     * The villain
     * The dispatcher (sends hero)
     * The helper
-    * The princess or prize, and often her father
+    * The princess or prize
     * The donor (prepares hero)
     * The hero
     * The false hero
@@ -46,22 +47,6 @@
     * Departure
     * Initiation
     * Return
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
