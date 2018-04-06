@@ -32,12 +32,14 @@
 
 # Joseph Campbell
 
-
+* American mythologist.
+* Born 1904
 
 ---
 
 # Hero with 1000 Faces/Power of Myth
 
+* Published 1949
 * Monomyth
 * 17 stages
 * 3 acts
